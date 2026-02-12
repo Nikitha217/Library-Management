@@ -76,11 +76,12 @@ com.wipro.book.util
 5.Simple and user-friendly HTML pages
 
 ## Database Details
-Tables Used
-  BOOK_TABLE – Stores book details
+Tables Used:
+
+  1. BOOK_TABLE – Stores book details
   <img width="767" height="363" alt="image" src="https://github.com/user-attachments/assets/6480a76e-c03d-4649-849f-7093c1aed5e1" />
 
-  AUTHOR_TABLE – Stores author details
+  2. AUTHOR_TABLE – Stores author details
   <img width="582" height="176" alt="image" src="https://github.com/user-attachments/assets/4b2429be-0372-4881-9c41-0792970a9c25" />
 
  ## How to Run in Eclipse IDE
