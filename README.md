@@ -78,10 +78,11 @@ com.wipro.book.util
 ## Database Details
 Tables Used
   BOOK_TABLE – Stores book details
-    <img width="767" height="363" alt="image" src="https://github.com/user-attachments/assets/6480a76e-c03d-4649-849f-7093c1aed5e1" />
+  <img width="767" height="363" alt="image" src="https://github.com/user-attachments/assets/6480a76e-c03d-4649-849f-7093c1aed5e1" />
+
 
   AUTHOR_TABLE – Stores author details
-    <img width="582" height="176" alt="image" src="https://github.com/user-attachments/assets/4b2429be-0372-4881-9c41-0792970a9c25" />
+  <img width="582" height="176" alt="image" src="https://github.com/user-attachments/assets/4b2429be-0372-4881-9c41-0792970a9c25" />
 
  ## How to Run in Eclipse IDE
 Step 1: Install Required Software
@@ -110,13 +111,21 @@ Step 5: Run the Project
 The application provides:
 Menu page for navigation
 <img width="598" height="419" alt="Screenshot 2026-02-09 110843" src="https://github.com/user-attachments/assets/532fe1fa-d54c-4f3c-883a-53903798cfa6" />
+
+
 Add Book page to insert book details
 <img width="611" height="467" alt="Screenshot 2026-02-09 110818" src="https://github.com/user-attachments/assets/10c60077-c130-401a-b9db-0ae533bcbc56" />
+
+
 View Book page to display stored books
 <img width="636" height="334" alt="Screenshot 2026-02-09 110857" src="https://github.com/user-attachments/assets/4c258d98-c089-437f-8c29-115043eab9a4" />
+
 <img width="619" height="382" alt="Screenshot 2026-02-09 110944" src="https://github.com/user-attachments/assets/575ea845-3447-4ae0-bff7-93cd721bcec7" />
+
+
 Error pages for invalid or failed operations 
 <img width="605" height="295" alt="image" src="https://github.com/user-attachments/assets/c96e962a-b270-4ded-a3a8-d3f91e0120d4" />
+
 <img width="556" height="242" alt="image" src="https://github.com/user-attachments/assets/07a64051-9d87-4655-937e-a1552a8c130b" />
 
 ## Student Details
